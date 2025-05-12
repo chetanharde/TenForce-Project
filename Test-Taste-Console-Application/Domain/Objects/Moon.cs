@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Test_Taste_Console_Application.Domain.DataTransferObjects;
 
 namespace Test_Taste_Console_Application.Domain.Objects
