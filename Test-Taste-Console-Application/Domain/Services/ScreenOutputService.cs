@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using Test_Taste_Console_Application.Constants;
 using Test_Taste_Console_Application.Domain.Objects;
